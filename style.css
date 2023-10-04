@@ -1,0 +1,58 @@
+html {
+  background: url(img/360_F_599535831_pwQFVG0qtf6ksLXeVTnUwFMvoW5H0WiS.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+
+table,
+th,
+td {
+  border: 1px solid white;
+  text-align: center;
+}
+
+th {
+  height: 550px;
+}
+
+body {
+  margin-left: auto;
+  margin-right: auto;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  background-color: rgba(35, 22, 73, 0.8);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: aliceblue;
+  border: solid white;
+  width: 1200px;
+  height: 800px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 50px;
+}
+
+button {
+  background-color: black;
+  color: white;
+  border: solid black;
+}
+
+button:hover {
+  background-color: aliceblue;
+  color: black;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  background-color: aliceblue;
+  color: black;
+}
